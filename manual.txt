@@ -1,0 +1,5 @@
+[Manual]
+
+Registro de dominio FREE - https://www.duckdns.org/
+Proxy Reverso - https://nginxproxymanager.com/guide/#quick-setup
+Wordpress - https://github.com/rafaelcardoso94/Docker/blob/main/wordpress/docker-compose.yaml
